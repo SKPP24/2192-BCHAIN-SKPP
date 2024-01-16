@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style: decimal; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+li {
+  margin-bottom: 1em; /* Add spacing between list items */
+}
