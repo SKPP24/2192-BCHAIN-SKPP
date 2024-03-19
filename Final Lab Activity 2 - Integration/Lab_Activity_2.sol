@@ -52,3 +52,8 @@ contract FinalsActivity2 {
 
 //Shem Kahlil P. Payad
 //WD-401
+
+//Through this activity, I've gained knowledge in developing Solidity smart contracts, covering crucial concepts such as contract ownership, constructor initialization, 
+//event logging, fallback functions for Ether handling, modifiers for access control like onlyOwner, and self-destruct functionality. 
+//I've learned to assign ownership to addresses, restrict function access to the owner, initialize variables upon contract deployment, log important transactions with 
+//events, handle Ether transactions with fallback functions, enforce access control with modifiers, and provide contract termination capability with self-destruct functionality.
