@@ -25,3 +25,6 @@ contract EtherWallet {
 
 //Shem Kahlil P. Payad
 //WD-401
+
+//This Lab Activity has equipped me with essential skills for building decentralized applications on the Ethereum blockchain. 
+// Through this activity, I've gained foundational knowledge in Ethereum smart contract development using Solidity. 
